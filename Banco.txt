@@ -1,0 +1,6 @@
+departamento(id,dataIni,gerente,nome)
+projeto(id,idDepartamento,localproj,nome)
+empregado(id,idDepartamento,supervisor,salario,endereco,nome)
+dependente(id,sexo,nome,idEmpregado)
+alocacao(id,id,horas)
+
