@@ -1,4 +1,6 @@
-# Ciração de Entidade de relacionamento para banco de dados mysql.
-Projeto Java 8, utilizando o  framework Swing. 
+#### Creation of relationship Entity for mysql database.
 
-#Objetivo é gerar um modelo de entidade e relacionamento e exportar em DLL, trabalho feito para fins acadêmicos.
+- Java 8 project;
+- Swing Framework;
+
+Objective: Generate an entity and relationship model and export in DLL, work done for academic purposes.
